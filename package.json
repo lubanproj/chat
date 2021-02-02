@@ -1,0 +1,35 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "a chat implemented by nodejs and websocket",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lubanproj/chat.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "websocket",
+    "javascript",
+    "js",
+    "ts",
+    "typescript",
+    "chat",
+    "io",
+    "socket"
+  ],
+  "author": "lubanproj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lubanproj/chat/issues"
+  },
+  "homepage": "https://github.com/lubanproj/chat#readme",
+  "dependencies": {
+    "@types/node": "^14.14.22",
+    "nodejs-websocket": "^1.7.2"
+  }
+}
